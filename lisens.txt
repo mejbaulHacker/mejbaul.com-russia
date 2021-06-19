@@ -1,0 +1,24 @@
+Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec  7 2020, 17:08:21) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print('at first , im gom=ning to rasssia.')
+at first , im gom=ning to rasssia.
+>>> print('rassia is good country .')
+rassia is good country .
+>>> print('mt universit name is cafonia rassia university .')
+mt universit name is cafonia rassia university .
+>>> print('y school hestel is good .')
+y school hestel is good .
+>>> print('any people is seperated room.')
+any people is seperated room.
+>>> print('own make cook and cannot help anyone cook .')
+own make cook and cannot help anyone cook .
+>>> print('merket is beautiful , around place low cost of product ')
+merket is beautiful , around place low cost of product
+>>> print('winter is cold , -30')
+winter is cold , -30
+>>> prnfhf('bye daddy , mammi)
+  File "<stdin>", line 1
+    prnfhf('bye daddy , mammi)
+                              ^
+SyntaxError: EOL while scanning string literal
+>>>
